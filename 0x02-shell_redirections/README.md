@@ -1,1 +1,1 @@
-no more java scripts
+count directories
