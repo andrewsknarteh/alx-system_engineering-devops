@@ -1,1 +1,1 @@
-no more java
+no more java scripts
